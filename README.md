@@ -1,15 +1,15 @@
-# Personal Portfolio Website 💻
+# Varshith Gorrepati — Portfolio
 
-A simple personal portfolio website built with HTML and CSS, presenting a professional introduction, education, skills, certifications, projects, and contact information.
+A responsive personal portfolio website built with HTML and CSS to showcase my profile, education, skills, certifications, and projects.
 
-## ✨ Highlights
+## ✨ Features
 
 - Single-page portfolio layout
-- Fixed navigation with section links
-- Education table
-- Skills and certification sections
-- Responsive-friendly styling
-- Lightweight static frontend
+- Fixed navigation
+- Education section with structured table
+- Skills and certifications
+- Project showcase
+- Responsive-friendly design
 
 ## 🛠️ Tech Stack
 
@@ -25,12 +25,10 @@ cd portfolio
 python -m http.server 5500
 ```
 
-Open the portfolio page in your browser using the local server.
-
-## 📌 Before Showcasing
-
-Keep the profile information current, add links to your strongest projects, verify contact details, and use descriptive filenames for assets.
+Open `http://localhost:5500` in your browser.
 
 ## 👨‍💻 Author
 
-[Varshith Gorrepati](https://github.com/VARSHITHGORREPATI)
+**Varshith Gorrepati**
+
+[GitHub](https://github.com/VARSHITHGORREPATI) · [LinkedIn](https://www.linkedin.com/in/gorrepativarshith/)
